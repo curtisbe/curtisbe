@@ -1,3 +1,4 @@
+![Github webpage headshot 200 by 267](https://user-images.githubusercontent.com/6943767/127555623-7e8f023f-8680-4214-a088-da84be201414.jpg)
 ## About me
 
 I am a senior lecturer in the Department of Computing in the Faculty of Science and Technoogy at the University of the West Indies.
