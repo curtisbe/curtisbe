@@ -4,10 +4,10 @@
 
 ## About me
 
-I am a senior lecturer in the Department of Computing in the Faculty of Science and Technoogy at the University of the West Indies.
-My research has been in the areas of data and software security and software engineering. My teaching has also focused on these areas
-and introductory courses in programming. In 2021 I documented some lecture notes from the many clasees and discussions I have had on
-introductory programming and I have made the document available here. It is freely available and registered under a Creative Common Licence.
+I am a senior lecturer in the Department of Computing in the Faculty of Science and Technoogy at the University of the West Indies at Mona, Jamaica.
+My research has been in the areas of data and software security, and software engineering. My teaching has also focused on these areas
+as well as introductory courses in programming. In 2021 I documented some lecture notes from the many clasees and discussions I have had on
+introductory programming and I have made the document available below. It is freely available and registered under a Creative Common Licence.
 
 
 ### My publications
