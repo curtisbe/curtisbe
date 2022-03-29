@@ -13,7 +13,7 @@ introductory programming and I have made the document available below. It is fre
 ### My publications
 
 _Open Access Book_
-1. Lecture Notes on An Introduction to Programming. You can download this book [here](https://github.com/curtisbe/curtisbe/blob/main/Lecture%20notes%20on%20An%20Introduction%20to%20Programming%20-%20Ebook%20version.pdf)
+1. Lecture Notes on An Introduction to Programming. You can download this book [here](https://github.com/curtisbe/curtisbe/blob/8edfcf48e610361b99247d7ee18d93b65a60cdae/Ebook%20version.pdf)
 
 _Book Chapters_
 1. Ormsby, M., Busby-Earle, C. (2020) Agile Scaled Steps of Doneness: A Standardized Procedure to Conceptualizing and Completing User Stories Across Scrum Teams and Industries. In: Damiani E., Spanoudakis G., Maciaszek L. (eds) Evaluation of Novel Approaches to Software Engineering. ENASE 2019. Communications in Computer and Information Science, vol 1172. Springer, Cham.
