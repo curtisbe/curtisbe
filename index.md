@@ -4,10 +4,9 @@
 
 ## About me
 
-I am a senior lecturer in the Department of Computing in the Faculty of Science and Technoogy at the University of the West Indies at Mona, Jamaica.
-My research has been in the areas of data and software security, and requirements engineering. My teaching has also focused on these areas
-as well as introductory courses in programming. In 2021 I documented some lecture notes from the many clasees and discussions I have had on
-introductory programming and I have made the document available below. It is freely available and registered under a Creative Common Licence.
+I am a senior lecturer in the Department of Computing in the Faculty of Science and Technology at the University of the West Indies at Mona, Jamaica.
+My research has been in the areas of data and software security, software engineering with a focus on requirements engineering and most recently, quantum computing.
+My teaching has also focused on these areas as well as introductory courses in programming and systems programming. In 2021 I documented some lecture notes from the many classes and discussions I have had on introductory programming and published an open access book. It is freely available and registered under a Creative Common Licence. In 2023, I created and delivered the UWI's first undergraduate course on quantum computing.
 
 
 ### My publications
@@ -16,8 +15,10 @@ _Open Access Book_
 1. Lecture Notes on An Introduction to Programming. You can download this book [here](https://github.com/curtisbe/curtisbe/blob/8edfcf48e610361b99247d7ee18d93b65a60cdae/Ebook%20version.pdf)
 
 _Book Chapters_
-1. Ormsby, M., Busby-Earle, C. (2020) Agile Scaled Steps of Doneness: A Standardized Procedure to Conceptualizing and Completing User Stories Across Scrum Teams and Industries. In: Damiani E., Spanoudakis G., Maciaszek L. (eds) Evaluation of Novel Approaches to Software Engineering. ENASE 2019. Communications in Computer and Information Science, vol 1172. Springer, Cham.
-2. Busby-Earle, C. and France, R.B: ‘Discovering potential interaction violations among requirements’. Published as Advanced Information Systems Engineering Workshops: CAiSE 2016 International Workshops, Ljubljana, Slovenia, June 13-17, 2016, Proceedings (Lecture Notes in Business Information Processing),  249, 1st ed., J. Krogstie, H. Mouratidis and J. Su Eds. Springer,  2016, ch. 23, pp 243-253.
+1. (accepted for publication) Busby-Earle, C (2023):’A brief summary of quantum computing research’. Published as The International Conference on Emergent Quantum Technologies (ICEQT ’22), Las Vegas, USA, July 25-28, 2022, Proceedings (Transactions on Computational Science and Computational Intelligence), Springer Nature.
+2. (accepted for publication) Miller, S and Busby-Earle, C (2023):’Explaining machine learning predictions in botnet detection’. Published as 21st International Conference on Artificial Intelligence and Soft Computing (ICAISC), Zakopane, Poland, June 19-23, 2022, Proceedings (Lecture Notes in Artificial Intelligence), Springer.
+3. Ormsby, M., Busby-Earle, C. (2020):'Agile Scaled Steps of Doneness:A Standardized Procedure to Conceptualizing and Completing User Stories Across Scrum Teams and Industries'. In: Damiani E., Spanoudakis G., Maciaszek  L. (eds) Evaluation of Novel Approaches to Software Engineering. ENASE 2019. Communications in Computer and Information Science, vol 1172. Springer, Cham.
+4. Busby-Earle, C. and France, R.B: ‘Discovering potential interaction violations among requirements'. Published as Advanced Information Systems Engineering Workshops: CAiSE 2016 International Workshops, Ljubljana, Slovenia, June 13-17, 2016, Proceedings (Lecture Notes in Business Information Processing),  249, 1st ed., J. Krogstie, H. Mouratidis and J. Su Eds. Springer,  2016, ch. 23, pp 243-253.
 
 _Journal Articles_
 1. Miller, S. and Busby-Earle, C.: ‘The Impact of different botnet flow feature subsets on prediction accuracy using supervised and unsupervised learning methods’. In Journal of Internet Technology and Secured Transaction, 5(2), June 2016, pp. 474 – 485.
